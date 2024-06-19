@@ -1,0 +1,37 @@
+
+.saveImage-button{
+    background-color: var(--secondary-color);
+    width: 100%;
+    color: var(--white);
+    padding: 1rem 2rem;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 0.4rem;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    &:hover {
+      background-color: var(--secondary-color);
+    }
+}
+ #myFiles{
+    display: none;
+}
+.avatarImage{
+    height: 100px;
+    width: 110px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 30px auto;
+    border-radius: 50%;
+}
+.avatarImage:hover{
+    border: 7px solid var(--white);
+    cursor: pointer;
+}
+.setPic-text{
+    color: var(--white);
+    text-align: center;
+    font-size: 25px;
+}

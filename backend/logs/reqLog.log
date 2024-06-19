@@ -1,0 +1,4 @@
+20230915	14:54:25	1780e6d5-845c-4464-ae58-ee3766f5907d	GET	/auth/refresh	http://localhost:3000
+20230915	14:54:26	d987ef97-f944-4bf0-845c-5fbdc1076fa0	POST	/auth/verifyAuth	http://localhost:3000
+20230915	14:54:26	4fc4e272-c947-4ba2-a20e-eaa429f955dd	GET	/getAllAvatars	http://localhost:3000
+20230915	14:54:26	4799b788-bb6f-42e7-891e-7c9900f22555	GET	/getAllUsers	http://localhost:3000
